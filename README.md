@@ -1,6 +1,6 @@
 # ELTE FI bachelor and master thesis template
 
-The [elteikthesis_en.tex](elteikthesis_en.tex) and the produced [elteikthesis_en.pdf](elteikthesis_en.pdf) serves as an example of usage.
+The [elteikthesis_en.tex](elteikthesis_en.tex) and the produced [elteikthesis_en.pdf](Documentation.pdf) serves as an example of usage.
 This class template enforces the required formatting rules for bachelor and master theses and generates the cover page given on the provided metadata. The chapters of the example document follows the typical structure of a BSc thesis.
 The formatting rules are defined to meet the requirements for theses submitted at the Eötvös Loránd University, Faculty of Informatics (Budapest, Hungary). However with sufficient modifications the template should be usable at other universities, too.
 
